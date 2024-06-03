@@ -1,0 +1,87 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergio",
+      "apellido": "code",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "RaectJs"
+        },
+        {
+          "nombre": "JavaScript"
+        }
+      ],
+      "id": "e3cd"
+    },
+    {
+      "nombre": "Miguel",
+      "apellido": "Duran",
+      "materias": [
+        {
+          "nombre": "JavaScript"
+        },
+        {
+          "nombre": "RaectJs"
+        },
+        {
+          "nombre": "Astro"
+        },
+        {
+          "nombre": "NodeJS"
+        }
+      ],
+      "id": "ed9a"
+    },
+    {
+      "id": "e3cd",
+      "nombre": "Jack",
+      "apellido": "Ferguson",
+      "materias": [
+        {
+          "nombre": "Ingles"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Valentin",
+      "apellido": "Peralta",
+      "promedio": 9.5,
+      "id": "3cbe"
+    },
+    {
+      "nombre": "Erick",
+      "apellido": "Ruiz",
+      "promedio": 7.8,
+      "id": "935a"
+    },
+    {
+      "nombre": "Alan",
+      "apellido": "Martinez",
+      "promedio": 9,
+      "id": "bb32"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "JavaScript",
+      "id": "cd56"
+    },
+    {
+      "nombre": "NodeJS",
+      "id": "e5bc"
+    },
+    {
+      "nombre": "RaectJs",
+      "id": "be20"
+    },
+    {
+      "nombre": "Astro",
+      "id": "bb6f"
+    }
+  ]
+}
